@@ -27,3 +27,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /home/bertpme/www/       # ou adapte selon ton cas
           local-dir: dist/
+
+          
